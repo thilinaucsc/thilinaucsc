@@ -1,7 +1,7 @@
 <!--
   HOW TO USE
-  1. Replace every "YOUR_USERNAME" with your GitHub username (Ctrl+H / Find & Replace).
-  2. Replace "YOUR NAME", the links in the badges, and anything in [brackets].
+  1. Replace every "thilinaucsc" with your GitHub username (Ctrl+H / Find & Replace).
+  2. Replace "Thilina Sampath", the links in the badges, and anything in [brackets].
   3. Create a PUBLIC repo named exactly the same as your username, tick "Add a README", and paste this in.
 -->
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=5acbe9&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=thilinaucsc&label=Profile%20Views&color=5acbe9&style=flat" alt="profile views"/>
 
 </div>
 
@@ -61,7 +61,7 @@ const me = {
 
 | Project | Description | Tech |
 |---|---|---|
-| 🐦 **[Budgie](https://github.com/YOUR_USERNAME/budgie)** | Offline expense & budget tracker — daily spending log, monthly limits, charts, all data stays on your phone | Flutter · Dart |
+| 🐦 **[Budgie](https://github.com/thilinaucsc/budgie)** | Offline expense & budget tracker — daily spending log, monthly limits, charts, all data stays on your phone | Flutter · Dart |
 | 🏠 **Minito** | AI-generated miniature DIY build reels for Facebook, TikTok & YouTube | Google Flow |
 | 🎬 **Story Series** | Serialized short-video series — an old Sri Lankan love story with a horror twist, linked to the modern day | Google Flow |
 | 🧸 **Kids Anime Shorts** | 30-second anime shorts for kids on YouTube & Facebook | Manus |
@@ -70,20 +70,20 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&column=6&theme=nord&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thilinaucsc&column=6&theme=nord&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophies"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thilinaucsc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinaucsc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=thilinaucsc&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=5acbe9&line=5acbe9&point=E0DFF1&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thilinaucsc&bg_color=00000000&color=5acbe9&line=5acbe9&point=E0DFF1&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
