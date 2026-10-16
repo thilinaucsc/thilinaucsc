@@ -1,98 +1,148 @@
-<!--
-  HOW TO USE
-  1. Replace every "thilinaucsc" with your GitHub username (Ctrl+H / Find & Replace).
-  2. Replace "Thilina Sampath", the links in the badges, and anything in [brackets].
-  3. Create a PUBLIC repo named exactly the same as your username, tick "Add a README", and paste this in.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=YOUR%20NAME&fontSize=48&fontColor=E0DFF1&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20AI%20Content%20Creator&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thilina%20Sampath&fontSize=52&fontColor=E0DFF1&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Content%20Creator&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=5ACBE9&center=true&vCenter=true&width=650&height=50&lines=Hey+there%2C+wanderer!+%F0%9F%91%8B;I+build+mobile+apps+with+Flutter+%F0%9F%93%B1;I+make+AI+videos+%26+stories+%F0%9F%8E%AC;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=5ACBE9&center=true&vCenter=true&width=700&height=50&lines=Ayubowan!+I'm+Thilina+%F0%9F%91%8B;Software+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+Budgie+with+Flutter+%F0%9F%90%A6;Java+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Dart;Turning+ideas+into+apps+%26+AI+stories+%F0%9F%8E%AC" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/mtslk/"><img src="https://img.shields.io/badge/LinkedIn-Thilina%20Sampath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thilinaucsc"><img src="https://img.shields.io/badge/GitHub-thilinaucsc-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/thilinaucsc?tab=repositories"><img src="https://img.shields.io/badge/Repos-35+-5ACBE9?style=for-the-badge&logo=git&logoColor=white"/></a>
+</p>
 
-<a href="https://www.youtube.com/@[your-channel]"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-<a href="https://www.facebook.com/[your-page]"><img src="https://img.shields.io/badge/-Facebook-cba6f7?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
-<a href="https://www.tiktok.com/@[your-handle]"><img src="https://img.shields.io/badge/-TikTok-f5e0dc?style=for-the-badge&logo=tiktok&logoColor=000000"/></a>
-<a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-a6e3a1?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=thilinaucsc&label=Profile%20Views&color=5acbe9&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=thilinaucsc&label=Profile%20Views&color=5acbe9&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/thilinaucsc?label=Followers&style=flat-square&color=cba6f7" alt="followers"/>
 
 </div>
 
 ---
 
-## 👻 A little about me...
+## 👨‍💻 About Me
 
-I'm a **Flutter developer and AI content creator from Sri Lanka 🇱🇰**. I like turning ideas into things people can actually use — whether that's a clean, offline-first mobile app or a short video that keeps people coming back for the next part.
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
-- 📱 Building **Budgie** — an offline expense & budget tracker in Flutter
-- 🎬 Creating AI-generated short videos and serialized stories
-- 🏠 Running **Minito** — AI miniature DIY build reels
-- 🌱 Currently learning: **[e.g. Firebase, state management, Dart best practices]**
-- 💬 Ask me about: **Flutter, Dart, AI video tools**
+Hi, I'm **Thilina Sampath** — a **software developer from Sri Lanka 🇱🇰** who enjoys building things end to end: from Java back-ends and JavaScript/React front-ends to cross-platform mobile apps with **Flutter**.
 
-```js
-const me = {
-    location: "Sri Lanka 🇱🇰",
-    languages: ["Dart", "JavaScript"],
-    mobile: ["Flutter", "Android"],
-    storage: ["SQLite", "Hive", "Shared Preferences"],
-    tools: ["VS Code", "Android Studio", "Git", "Figma"],
-    aiCreative: ["Google Flow", "Manus", "Prompt Engineering"],
-    currentFocus: "Shipping Budgie 🐦",
-    funFact: "I write horror love stories… with AI 👀"
-};
+Lately I've also been exploring the creative side of tech — using AI tools to produce short videos, story series and animation.
+
+- 🔭 Currently building **Budgie** — an offline expense & budget tracker in Flutter
+- 🌐 Background in **Java**, **JavaScript**, **React** and **Angular** web projects
+- 🎬 Creating AI-powered short videos & serialized stories
+- 🌱 Always learning something new — currently going deeper into **Flutter & Dart**
+- 🤝 Open to collaboration, freelance work and interesting ideas
+- 📫 Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/mtslk/)**
+
+<br clear="right"/>
+
+```dart
+class ThilinaSampath {
+  final String location   = "Sri Lanka 🇱🇰";
+  final String role       = "Software Developer";
+
+  final List<String> languages = ["Java", "JavaScript", "Dart", "SQL"];
+  final List<String> frontend  = ["React", "Angular", "HTML", "CSS"];
+  final List<String> mobile    = ["Flutter", "Android"];
+  final List<String> databases = ["MySQL", "SQLite"];
+  final List<String> tools     = ["Git", "VS Code", "IntelliJ", "Android Studio", "Figma"];
+  final List<String> aiCreative = ["Google Flow", "Manus", "Prompt Engineering"];
+
+  String get currentFocus => "Shipping Budgie 🐦";
+  String get motto        => "Keep building. Keep learning.";
+}
 ```
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,sqlite,firebase,js,html,css,git,github,vscode,figma&perline=6" />
-</p>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🐦 **[Budgie](https://github.com/thilinaucsc/budgie)** | Offline expense & budget tracker — daily spending log, monthly limits, charts, all data stays on your phone | Flutter · Dart |
-| 🏠 **Minito** | AI-generated miniature DIY build reels for Facebook, TikTok & YouTube | Google Flow |
-| 🎬 **Story Series** | Serialized short-video series — an old Sri Lankan love story with a horror twist, linked to the modern day | Google Flow |
-| 🧸 **Kids Anime Shorts** | 30-second anime shorts for kids on YouTube & Facebook | Manus |
-
-## 📊 Statistics
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thilinaucsc&column=6&theme=nord&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophies"/>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,dart,html,css&theme=dark"/>
 
-<br/>
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,spring,bootstrap&theme=dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thilinaucsc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinaucsc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=thilinaucsc&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thilinaucsc&bg_color=00000000&color=5acbe9&line=5acbe9&point=E0DFF1&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+**Databases & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vscode,idea,androidstudio,figma&theme=dark"/>
 
 </div>
 
-## ☕ Support Me
-
-If you like my work, a ⭐ on my repos means a lot!
-<!-- Optional: add a Buy Me a Coffee / Ko-fi link here -->
-<!-- <a href="https://buymeacoffee.com/[you]"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a> -->
+## 🚀 Projects
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+
+<a href="https://github.com/thilinaucsc/SystemLK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thilinaucsc&repo=SystemLK&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/thilinaucsc/appSails"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thilinaucsc&repo=appSails&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/thilinaucsc/Fronted"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thilinaucsc&repo=Fronted&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+
+</div>
+
+| | Project | What it is | Tech | Status |
+|:-:|---|---|---|:-:|
+| 🐦 | **Budgie** | Offline expense & budget tracker — daily spending log, monthly limits, charts, data stays on your phone | Flutter · Dart | 🚧 In progress |
+| 🖥️ | **[SystemLK](https://github.com/thilinaucsc/SystemLK)** | Java application project | Java | ✅ |
+| 🌐 | **[Fronted](https://github.com/thilinaucsc/Fronted)** | Front-end web project | JavaScript | ✅ |
+| ⛵ | **[appSails](https://github.com/thilinaucsc/appSails)** | Web application project | JavaScript | ✅ |
+
+<details>
+<summary><b>🎬 Creative & AI projects (click to expand)</b></summary>
+<br/>
+
+| | Project | What it is | Made with |
+|:-:|---|---|---|
+| 🏠 | **Minito** | AI-generated miniature DIY build reels for Facebook, TikTok & YouTube | Google Flow |
+| 👻 | **Story Series** | A serialized short-video series — an old Sri Lankan love story with a horror twist, linked to the modern day | Google Flow |
+| 🧸 | **Kids Anime Shorts** | 30-second anime shorts for kids on YouTube & Facebook | Manus |
+
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thilinaucsc&column=7&theme=tokyonight&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="trophies"/>
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=thilinaucsc&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinaucsc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=thilinaucsc&theme=tokyonight&hide_border=true&background=0d1117&ring=5ACBE9&fire=FF6B6B&currStreakLabel=5ACBE9" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thilinaucsc&bg_color=0d1117&color=5acbe9&line=5acbe9&point=E0DFF1&area=true&hide_border=true&custom_title=Thilina's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thilinaucsc/thilinaucsc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thilinaucsc/thilinaucsc/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thilinaucsc/thilinaucsc/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+## 💭 Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always happy to talk about apps, ideas or collaboration.<br/>
+If you like my work, a ⭐ on any repo means a lot!
+
+<a href="https://www.linkedin.com/in/mtslk/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
 </div>
