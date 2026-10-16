@@ -114,7 +114,7 @@ class ThilinaSampath {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thilinaucsc&bg_color=0d1117&color=5acbe9&line=5acbe9&point=E0DFF1&area=true&hide_border=true&custom_title=Thilina's%20Contribution%20Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/5ACBE9/thilinaucsc" alt="Thilina's contribution chart" width="100%"/>
 
 </div>
 
